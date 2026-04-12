@@ -8,4 +8,4 @@ Android developer & open-source contributor.
 
 #### Open Source
 
-Active contributor to [Animeko](https://github.com/open-ani/animeko), [Lawnchair](https://github.com/LawnchairLauncher/lawnchair), [Fresh](https://github.com/sinelaw/fresh), [csvlens](https://github.com/YS-L/csvlens), [Fossify Clock](https://github.com/FossifyOrg/Clock) and more.
+Active contributor to [Animeko](https://github.com/open-ani/animeko), [Lawnchair](https://github.com/LawnchairLauncher/lawnchair), [Fresh](https://github.com/sinelaw/fresh), [Haka Comic](https://github.com/raoxwup/haka_comic), [Chocola](https://github.com/sosauce/Chocola) and more.
