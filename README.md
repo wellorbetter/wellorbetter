@@ -11,6 +11,6 @@ Python         ██████████░░░░░░░░░░░�
 
 ---
 
-#### 🔥 Contributions — 12 merged PRs across 38k+ ⭐ repos
+#### Open Source
 
-[Animeko](https://github.com/open-ani/animeko) `16.8k⭐` · [Lawnchair](https://github.com/LawnchairLauncher/lawnchair) `12.5k⭐` · [Fresh](https://github.com/sinelaw/fresh) `6.7k⭐` · [Haka Comic](https://github.com/raoxwup/haka_comic) `900⭐` · [Chocola](https://github.com/sosauce/Chocola) `800⭐` · [Overmorrow](https://github.com/bmaroti9/Overmorrow) `700⭐`
+Active contributor to [Animeko](https://github.com/open-ani/animeko), [Lawnchair](https://github.com/LawnchairLauncher/lawnchair), [Fresh](https://github.com/sinelaw/fresh), [csvlens](https://github.com/YS-L/csvlens), [Fossify Clock](https://github.com/FossifyOrg/Clock) and more.
