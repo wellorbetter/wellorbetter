@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellorbetter&layout=compact&theme=transparent&hide_border=true&langs_count=10" />
 
-Open-source contributor. I fix bugs and build features for popular projects.
+Android developer & open-source contributor.
 
 #### Tech Stack
 
@@ -11,19 +11,15 @@ Open-source contributor. I fix bugs and build features for popular projects.
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
 ```text
-Kotlin       ████████████████████░░░░░   80%    Daily driver
-Java         ██████████████████░░░░░░░   72%    Android & Backend
-Rust         ████████████████░░░░░░░░░   64%    Systems & CLI tools
-Flutter/Dart ████████████████░░░░░░░░░   64%    Cross-platform apps
-Python       ██████████████░░░░░░░░░░░   56%    ML & Scripting
-C/C++        ██████████░░░░░░░░░░░░░░░   40%    Fundamentals
+Kotlin/Java    ████████████████████░░░░░  80%   Android native
+Flutter/Dart   ████████████████░░░░░░░░░  64%   Android cross-platform
+Rust           ██████████████░░░░░░░░░░░  56%   Android cross-platform
+Python         ██████████░░░░░░░░░░░░░░░  40%   Scripting & ML
 ```
 
 ---
@@ -51,19 +47,12 @@ C/C++        ██████████░░░░░░░░░░░░�
 | [Lawnchair](https://github.com/LawnchairLauncher/lawnchair) | ⭐ 12.5k+ | Folder icon customization, store shortcut, bitmap fix |
 | [csvlens](https://github.com/YS-L/csvlens) | ⭐ 3.7k+ | Number formatting options |
 | [Daily You](https://github.com/Demizo/Daily_You) | ⭐ 1k+ | Share image to diary entry |
-| [Fossify Clock](https://github.com/FossifyOrg/Clock) | ⭐ 600+ | Alarm sound cancel, date format, ringtone fallback |
 | [Haka Comic](https://github.com/raoxwup/haka_comic) | ⭐ 900+ | Chapter sidebar for vertical reading |
 | [Overmorrow](https://github.com/bmaroti9/Overmorrow) | ⭐ 700+ | Week forecast widget |
+| [Fossify Clock](https://github.com/FossifyOrg/Clock) | ⭐ 600+ | Alarm sound cancel, date format, ringtone fallback |
 
 ---
 
-### 📊 Stats
-
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=wellorbetter&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=wellorbetter&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wellorbetter&theme=flat&no-frame=true&column=7&margin-w=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wellorbetter&theme=transparent&hide_border=true" />
 </p>
