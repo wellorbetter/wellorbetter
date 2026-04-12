@@ -4,44 +4,56 @@
 
 Open-source contributor. I fix bugs and build features for popular projects.
 
-#### Languages
+#### Tech Stack
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-
-#### Frameworks & Tools
-
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+```text
+Kotlin       ████████████████████░░░░░   80%    Daily driver
+Java         ██████████████████░░░░░░░   72%    Android & Backend
+Rust         ████████████████░░░░░░░░░   64%    Systems & CLI tools
+Flutter/Dart ████████████████░░░░░░░░░   64%    Cross-platform apps
+Python       ██████████████░░░░░░░░░░░   56%    ML & Scripting
+C/C++        ██████████░░░░░░░░░░░░░░░   40%    Fundamentals
+```
 
 ---
 
 ### 🔥 Open Source Contributions
 
-| Project | Stars | Merged PRs | What I Did |
-|---------|-------|------------|------------|
-| [Animeko](https://github.com/open-ani/animeko) | ⭐ 16.8k+ | 2 | Search fix, iOS crash fix |
-| [Lawnchair](https://github.com/LawnchairLauncher/lawnchair) | ⭐ 12.5k+ | 5 | Search providers, themed icons, drawer fixes |
+#### ✅ Merged
+
+| Project | Stars | PRs | Highlights |
+|---------|-------|-----|------------|
+| [Lawnchair](https://github.com/LawnchairLauncher/lawnchair) | ⭐ 12.5k+ | 5 | Search providers, themed icons, drawer & folder fixes |
+| [Animeko](https://github.com/open-ani/animeko) | ⭐ 16.8k+ | 2 | Search fix, iOS episode crash fix |
 | [Fresh](https://github.com/sinelaw/fresh) | ⭐ 6.7k+ | 1 | Multi-byte UTF-8 parsing fix |
-| [Haka Comic](https://github.com/raoxwup/haka_comic) | ⭐ 900+ | 2 | Auto-flip mode, batch download |
+| [Haka Comic](https://github.com/raoxwup/haka_comic) | ⭐ 900+ | 2 | Smooth scroll auto-flip, batch download |
 | [Chocola](https://github.com/sosauce/Chocola) | ⭐ 800+ | 1 | Swipe-to-change-track fix |
-| [Overmorrow](https://github.com/bmaroti9/Overmorrow) | ⭐ 700+ | 1 | Hourly forecast widget fix |
+| [Overmorrow](https://github.com/bmaroti9/Overmorrow) | ⭐ 700+ | 1 | Hourly forecast widget 12h clock fix |
 
 > **12 merged PRs** across repos with **38k+ combined stars**
+
+#### 🚧 In Progress
+
+| Project | Stars | PR |
+|---------|-------|----|
+| [Animeko](https://github.com/open-ani/animeko) | ⭐ 16.8k+ | Date sort for search, i18n improvements |
+| [Lawnchair](https://github.com/LawnchairLauncher/lawnchair) | ⭐ 12.5k+ | Folder icon customization, store shortcut, bitmap fix |
+| [csvlens](https://github.com/YS-L/csvlens) | ⭐ 3.7k+ | Number formatting options |
+| [Daily You](https://github.com/Demizo/Daily_You) | ⭐ 1k+ | Share image to diary entry |
+| [Fossify Clock](https://github.com/FossifyOrg/Clock) | ⭐ 600+ | Alarm sound cancel, date format, ringtone fallback |
+| [Haka Comic](https://github.com/raoxwup/haka_comic) | ⭐ 900+ | Chapter sidebar for vertical reading |
+| [Overmorrow](https://github.com/bmaroti9/Overmorrow) | ⭐ 700+ | Week forecast widget |
 
 ---
 
